@@ -15,3 +15,4 @@ python path/sc2l_main.py `
  --epoch 100 `
  --batch_size 256
  
+(might have to adjust paths accordingly in the call)
